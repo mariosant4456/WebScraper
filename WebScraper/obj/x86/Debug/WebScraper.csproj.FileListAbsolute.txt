@@ -1,0 +1,33 @@
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\obj\x86\Debug\WebScraper.Form1.resources
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\obj\x86\Debug\WebScraper.Properties.Resources.resources
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\obj\x86\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\obj\x86\Debug\WebScraper.exe
+C:\Users\Diego64\AppData\Local\Temporary Projects\WebScraper\obj\x86\Debug\WebScraper.pdb
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.exe
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.pdb
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Form1.resources
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Properties.Resources.resources
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\Diego64\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Form1.resources
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Properties.Resources.resources
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\Visual Studio 2010\Projects\WebScraper\WebScraper\bin\Debug\Mono.Security.dll
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.exe
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.pdb
+D:\Practisis\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+D:\Practisis\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+D:\Practisis\WebScraper\WebScraper\bin\Debug\Mono.Security.dll
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csprojResolveAssemblyReference.cache
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Form1.resources
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.Properties.Resources.resources
+D:\Practisis\WebScraper\WebScraper\obj\x86\Debug\WebScraper.csproj.GenerateResource.Cache

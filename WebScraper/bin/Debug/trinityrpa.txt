@@ -1,0 +1,17 @@
+inicio(https://srienlinea.sri.gob.ec/tuportal-internet/accederAplicacion.jspa?redireccion=57&idGrupo=55);
+existe(input.button.name:usuario);
+existe(input.password.name:password);
+escribir(input.name:usuario,1792108837001);
+escribir(input.name:password,XAPM4036);
+espera(5000);
+click(sumit.button.name:login);
+existe(select.select.name:frmPrincipal:dia);
+escribir(select.name:frmPrincipal:dia,Todos);
+click(sumit.button.name:btnRecaptcha);
+
+
+
+
+
+
+
